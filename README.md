@@ -36,6 +36,8 @@ The dataset used contains the following columns:
 | `1 week % increase`      | Weekly case growth rate (%)                    |
 | `WHO Region`             | World Health Organization region classification|
 
+![image](https://github.com/user-attachments/assets/cf085908-30f7-486c-bb50-20d5567255b7)
+
 ---
 
 ## 🛠️ Tools Used:
@@ -56,6 +58,8 @@ The dataset used contains the following columns:
 6. **Stacked Bar Chart** – WHO region-wise summary (Confirmed, Deaths, Recoveries)
 7. **Slicers** – Filter dashboard by `Country/Region` or `WHO Region`
 
+![Power BI Desktop 04_07_2025 20_18_53](https://github.com/user-attachments/assets/9db0b80b-2f4e-42a8-b440-6cc9e58bd116)
+
 ---
 
 ## 📈 Key Insights:
@@ -63,16 +67,6 @@ The dataset used contains the following columns:
 - **Recovery rates** exceed 85% in many regions, but **death rates vary significantly**.
 - **Weekly % increase** highlights ongoing surges in certain regions.
 - **Americas and Europe** show highest case burden, while **SE Asia shows better recovery efficiency**.
-
----
-
-## 🧪 How to Use This Project:
-1. Clone or download this repository.
-2. Open the provided CSV file in Power BI using `Get Data > Text/CSV`.
-3. Apply transformations if needed (nulls, data types).
-4. Build visuals as outlined above.
-5. Use slicers to explore data by country or WHO region.
-6. Customize layout for storytelling or presentation.
 
 ---
 
